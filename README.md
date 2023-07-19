@@ -9,7 +9,7 @@
 
 [Demo "Emoji Maze" by Izak Cancino for CS50x 2023](https://youtu.be/6eCAmZA8q40)
 
-## 📌 Characteristics 
+## 📌 Characteristics
 
 - **Game modes:** The extension has four game modes, each with different functionality or goals, they are:
 
@@ -26,9 +26,21 @@
 - **High scores:** Each game mode have a different use of the high scores, but them will always be saved locally doing them persistent and giving to the user the possibility of improve themselves.
 
 
-## 💻 Technical characteristics 
+## 💻 Technical characteristics
 
 All the functionalities were made with JavaScript: the maze generation system, printing them, listening for each key pressed and them responses (move the player or exit to the menu).
+
+The randomness system function in the next way:
+
+ - First was given some `width` and `height` values, all the grid is filled with `⬜`, after all the out-border is filled with `⬛` limiting the movement only in the grid.
+
+ - After that, all the cells where the `x` and `y` coordinates are even, is added a `⬛` and its position is saved in an array, this until end with all the even coordinates.
+
+ - Next to that, with the array of coordinates, for each coordinate is selected a contiguous cell (top, right, bottom, or left) and filled with a `⬛`, until end with all the array.
+
+ - Later, randomly is selected a grid corner (`top-right`, `top-left`, `bottom-left`, or `bottom-right`), after that is added a predesigned spawn box (where the `player` will spawn), and in the opposite corner are selected and saved the `goal` coordinates.
+
+ - Finally, the maze grid and entities coordinates (the `player` and `goal`) are joined and showed.
 
 ## ✨ Usage
 
@@ -62,7 +74,7 @@ Others:
 [M, Backspace, Delete, Escape or Pause] <--- Return to the menu
 ```
 
-## Author
+## 🌐 Author
 Izak Cancino
 - GitHub: [@IzakCancino](https://github.com/IzakCancino)
 - Gmail: cancinoizak@gmail.com
