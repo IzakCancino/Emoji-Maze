@@ -2,8 +2,7 @@
 
 **Solve mazes with emojis in different game modes: normal, hard, get the goal and infinity.**
 
-<img alt="Image from main page in Phayao" src="https://i.postimg.cc/3rXXw88Q/Emoji-Maze-Menu.png" width="49%" align="center"/>
-<img alt="Image from main page in Phayao" src="https://i.postimg.cc/mrP3Z7Dm/Emoji-Maze-Game.png" width="49%" align="center"/>
+<img alt="Image from main page in Phayao" src="https://i.postimg.cc/3rXXw88Q/Emoji-Maze-Menu.png" width="49%" align="center"/><img alt="Image from main page in Phayao" src="https://i.postimg.cc/mrP3Z7Dm/Emoji-Maze-Game.png" width="49%" align="center"/>
 
 ## Video demo:  
 
