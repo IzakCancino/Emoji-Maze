@@ -2,13 +2,12 @@
 
 **Solve mazes with emojis in different game modes: normal, hard, get the goal and infinity.**
 
-<img alt="Image from main page in Phayao" src="https://i.postimg.cc/3rXXw88Q/Emoji-Maze-Menu.png" width="49%" align="center"/><img alt="Image from main page in Phayao" src="https://i.postimg.cc/mrP3Z7Dm/Emoji-Maze-Game.png" width="49%" align="center"/>
+<img alt="Menu section in Emoji Maze" src="https://i.postimg.cc/3rXXw88Q/Emoji-Maze-Menu.png" width="45%"/><img alt="Gameplay in Emoji Maze" src="https://i.postimg.cc/mrP3Z7Dm/Emoji-Maze-Game.png" width="45%"/>
 
-## Video demo:  
 
-[Demo "Emoji Maze" by Izak Cancino for CS50x 2023](https://example.com)
+## 🎥 Video demo
 
-HERE PUT AN EMBED
+[Demo "Emoji Maze" by Izak Cancino for CS50x 2023](https://youtu.be/6eCAmZA8q40)
 
 ## 📌 Characteristics 
 
@@ -33,7 +32,7 @@ All the functionalities were made with JavaScript: the maze generation system, p
 
 ## ✨ Usage
 
-Download the `.zip` document, unzip it, charge it in your [Chrome Extensions Manager](chrome://extensions/), open it and start to play!
+Download the folder, charge it in your [Chrome Extensions Manager](chrome://extensions/), open it and start to play!
 
 ### Menu
 
@@ -66,4 +65,5 @@ Others:
 ## Author
 Izak Cancino
 - GitHub: [@IzakCancino](https://github.com/IzakCancino)
+- Gmail: cancinoizak@gmail.com
 - Portfolio: [izakcancino.github.io](http://izakcancino.github.io)
